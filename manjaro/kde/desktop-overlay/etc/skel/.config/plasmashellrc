@@ -1,0 +1,82 @@
+[DownloadDialog Settings]
+Height 900=494
+Virtual1 Height 900=494
+Virtual1 Width 1440=700
+Width 1440=700
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_applications:kvantummanager.desktop,1 services_applications:org.kde.konsole.desktop
+
+[PlasmaTransientsConfig]
+PreloadWeight=84
+
+[PlasmaViews][Panel 1]
+alignment=132
+panelVisibility=2
+
+[PlasmaViews][Panel 1][Defaults]
+maxLength=1074
+minLength=614
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1024]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1152]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1200]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1280]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1366]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1440]
+maxLength=1074
+minLength=614
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1600]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1680]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1900]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1916]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1920]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal2048]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal800]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal864]
+thickness=45
+
+[PlasmaViews][Panel 21]
+alignment=132
+panelVisibility=2
+
+[PlasmaViews][Panel 21][Defaults]
+minLength=478
+thickness=36
+
+[PlasmaViews][Panel 21][Horizontal1440]
+minLength=478
+thickness=36
+
+[ScreenConnectors]
+0=Virtual1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js

@@ -1,0 +1,14 @@
+[$Version]
+update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js,kwin.upd:auto-bordersize,kwin.upd:animation-speed
+
+[Compositing]
+OpenGLIsUnsafe=false
+
+[Desktops]
+Id_1=35840299-e7a6-4a90-9fe7-39e765afca8e
+Id_2=0996dddc-43d2-4048-9e71-09ba89fd7a77
+Rows=2
+
+[org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Nocta-Dark-beta

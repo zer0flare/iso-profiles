@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment=Animated screensaver from Creativity (Codicem)
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=PlasmaInnovation
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Name=PlasmaInnovation
+X-KDE-PluginInfo-Author=creativity
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-Plasma-MainScript=defaults 
